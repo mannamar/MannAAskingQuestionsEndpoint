@@ -1,3 +1,10 @@
+// Amardeep Mann
+// 10-25-22
+// AskingQuestions Endpoint
+// Added the ability to take in an input via web URL for our AskingQuestions function
+// Peer reviewed by Andrew Nilsson: Good job with the default and the inputs work well on postman as well as the string that is returned.
+
+
 using Microsoft.AspNetCore.Mvc;
 
 namespace MannASayHelloEndpoint.Controllers;
